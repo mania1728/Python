@@ -1,2 +1,3 @@
 To jest plik testowy
 Wprowadzam zmianê do pliku
+Modyfikacji ci¹g dalszy
